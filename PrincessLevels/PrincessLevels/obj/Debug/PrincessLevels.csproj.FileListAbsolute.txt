@@ -1,0 +1,14 @@
+C:\Marco32\PrincessLevels\PrincessLevels\obj\Debug\PrincessLevels.csprojResolveAssemblyReference.cache
+C:\Marco32\PrincessLevels\PrincessLevels\obj\Debug\MainWindow.g.cs
+C:\Marco32\PrincessLevels\PrincessLevels\obj\Debug\App.g.cs
+C:\Marco32\PrincessLevels\PrincessLevels\obj\Debug\PrincessLevels_MarkupCompile.cache
+C:\Marco32\PrincessLevels\PrincessLevels\obj\Debug\PrincessLevels_MarkupCompile.lref
+C:\Marco32\PrincessLevels\PrincessLevels\bin\Debug\PrincessLevels.exe.config
+C:\Marco32\PrincessLevels\PrincessLevels\bin\Debug\PrincessLevels.exe
+C:\Marco32\PrincessLevels\PrincessLevels\bin\Debug\PrincessLevels.pdb
+C:\Marco32\PrincessLevels\PrincessLevels\obj\Debug\MainWindow.baml
+C:\Marco32\PrincessLevels\PrincessLevels\obj\Debug\PrincessLevels.g.resources
+C:\Marco32\PrincessLevels\PrincessLevels\obj\Debug\PrincessLevels.Properties.Resources.resources
+C:\Marco32\PrincessLevels\PrincessLevels\obj\Debug\PrincessLevels.csproj.GenerateResource.Cache
+C:\Marco32\PrincessLevels\PrincessLevels\obj\Debug\PrincessLevels.exe
+C:\Marco32\PrincessLevels\PrincessLevels\obj\Debug\PrincessLevels.pdb
